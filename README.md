@@ -1,1 +1,1 @@
-# Self---Supervised-Learning-for-Medical-Imaging
+# Self-Supervised-Learning-for-Medical-Imaging
